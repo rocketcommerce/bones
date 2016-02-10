@@ -37,7 +37,7 @@ nbproject/
 ############
 ## Misc
 ############
-
+vendor
 bin/
 tmp/
 *.tmp
