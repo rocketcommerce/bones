@@ -1,6 +1,6 @@
 {
     "name": "rocketcommerce/bones",
-    "type": "wordpress-plugin",
+    "type": "wordpress-theme",
     "require": {
         "composer/installers": "~1.0"
     }
